@@ -1,14 +1,13 @@
 /*
- * IncFile1.h
+ * avr.h
  *
- * Created: 1/29/2021 8:55:11 PM
+ * Created: 1/16/2021 7:22:02 PM
  *  Author: Darren Lee
  */ 
 
 
-
-#ifndef _AVR_H_
-#define _AVR_H_
+#ifndef AVR_H_
+#define AVR_H_
 
 #include <avr/interrupt.h>
 #include <avr/pgmspace.h>
@@ -24,4 +23,4 @@
 
 void avr_wait(unsigned short msec);
 
-#endif /* _AVR_H_ */
+#endif /* AVR_H_ */
