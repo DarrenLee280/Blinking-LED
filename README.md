@@ -22,6 +22,7 @@ Components Used
 | 1x     | 8MHz Crystal | ATS08A | CTX406-ND | [Digikey Link](https://www.digikey.com/en/products/detail/cts-frequency-controls/ATS08A/280186?s=N4IgTCBcDaIMIBUAaAWADANgLQDkAiIAugL5A) |
 | 1x     | 5V Voltage Regulator | MC7805CT-BP | MC7805CT-BPMS-ND | [Digikey Link](https://www.digikey.com/en/products/detail/micro-commercial-co/MC7805CT-BP/804682?s=N4IgTCBcDaILIGEDsAOADAVgQFQLQCEAFOAZVwDkAREAXQF8g) |
 | 1x     | 0.1uF Capacitor | T350A104K035AT | 399-3526-ND | [Digikey Link](https://www.digikey.com/en/products/detail/kemet/T350A104K035AT/818388?s=N4IgTCBcDaIMwE4EFo4FYwDZkDkAiIAugL5A) |
+| 1x     | 10k Resistor | CF14JT10K0 | CF14JT10K0CT-ND | [Digikey Link](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265?s=N4IgTCBcDaIMIDECMAWAUgFSQBgNLbgwFoA5AERAF0BfIA) |
 | 1x     | 9V Battery | 6LF22XWA/B | P687-ND | [Digikey Link](https://www.digikey.com/en/products/detail/panasonic-bsg/6LF22XWA-B/5067196?s=N4IgTCBcDaIAoDYAcB2AtAOQCIgLoF8g) | 
 | 1x     | 9V Battery Connector | BS6I | BS6I-ND | [Digikey Link](https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BS6I/32055?s=N4IgTCBcDaIEIGUBsBJAtAOQCIgLoF8g) |
 | 2x     | Breadboard | TW-E41-1020 | 438-1046-ND | [Digikey Link](https://www.digikey.com/en/products/detail/twin-industries/TW-E41-1020/643112?s=N4IgTCBcDaICwGYAcBaAjABjgNhQOQBEQBdAXyA) |
