@@ -28,4 +28,4 @@ Components Used
 
 Visuals
 ------
-![Schematic](https://github.com/DarrenLee280/Blinking-LED/blob/main/Pictures/ATATMEL-ICE-BASIC%20Connector.png "Schematic")
+![ATATMEL ICE Connection to an ATmega32-16PU](https://github.com/DarrenLee280/Blinking-LED/blob/main/Pictures/ATATMEL-ICE-BASIC%20Connector.png "ATATMEL Ice Connection to an Atmega32-16PU")
