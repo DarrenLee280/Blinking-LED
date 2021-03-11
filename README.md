@@ -28,10 +28,4 @@ Components Used
 
 Visuals
 ------
-<object data="https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-![Schematic](https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf "Schematic")
+![Schematic](https://github.com/DarrenLee280/Blinking-LED/blob/main/Pictures/ATATMEL-ICE-BASIC%20Connector.png "Schematic")
