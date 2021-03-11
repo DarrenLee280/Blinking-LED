@@ -50,6 +50,8 @@ Make sure your __Device Programming__ window looks like this BEFORE pressing __P
 Source Code
 ------
 __main.c:__ Contains the code that blinks the LED for 500ms on and off. There is also a function(not used!) that uses instruction timing to wait around 500ms. (NOTE: the instruction timing uses the ATmega32 internal 1MHz clock)
+
 __avr.h:__ Contains the code that deals with bit manipulation. There is also a function declaration for a more accurate wait function
+
 __avr.c:__ Contains the code for the more accurate wait function. (NOTE: this wait function utilizes the 8MHz crystal and remember to adjust the ATmega32 internal clock)
 
