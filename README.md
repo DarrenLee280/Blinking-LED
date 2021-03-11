@@ -35,6 +35,7 @@ __How to connect a ATATMEL ICE to a ATmega32-16PU:__
 Initial Setup
 ------
 IMPORTANT!!! Make sure to switch the ATmega32 internal timer to match the 8MHz crystal,
+<p>
 How To: 
     1. On Microchip Studio, go to __Tools__ -> __Device Programming__
     2. Choose the correct programmer, device, and interface.
@@ -45,7 +46,7 @@ How To:
 
 Make sure your __Device Programming__ window looks like this BEFORE pressing __Program__
 ![Device Programming](https://github.com/DarrenLee280/Blinking-LED/blob/main/Pictures/Device%20Programming.JPG) "Device Programming")
-
+</p>
 Source Code
 ------
 __main.c:__ Contains the code that blinks the LED for 500ms on and off. There is also a function(not used!) that uses instruction timing to wait around 500ms. (NOTE: the instruction timing uses the ATmega32 internal 1MHz clock)
