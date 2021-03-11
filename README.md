@@ -40,7 +40,7 @@ How To:
     2. Choose the correct programmer, device, and interface.
     3. Click on the __Fuses__ Tab
     4. Scroll down to the __LOW.SUT_CKSEL__ section
-    5. From the Dropdown section, click on Ext. Crystal/Resonator High Freq.; Start-up time: 16CK + 64 ms
+    5. From the Dropdown section, click on __Ext. Crystal/Resonator High Freq.; Start-up time: 16CK + 64 ms EXTHIFXTALRES_16KCK_64MS__
     6. Press __Program__
 
 Make sure your __Device Programming__ window looks like this BEFORE pressing __Program__
