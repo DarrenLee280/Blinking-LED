@@ -11,8 +11,9 @@ This is a starter project that help me get introduced to Atmel Studio.
 
 The LED blinks on and off at a rate of 500ms on and 500ms off whenever the button is pressed.
 
-Components I Used
+Components Used
 ------
 | Qty    | Item    | Part    | Digikey Part # | Link    | 
 |:------:|:-------:|:-------:|:--------------:|:-------:|
 | 1x     | Microcontroller | Atmega32-16PU | ATMEGA32-16PU-ND| [Digikey Link](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA32-16PU/739771?s=N4IgTCBcDaIIIBUCyBRA4nAzGAtARgDYAFAVRwDkAREAXQF8g) |
+| 1x     | Programmer | ATATMEL-ICE-BASIC | ATATMEL-ICE-BASIC-ND | [Digikey Link](https://www.digikey.com/en/products/detail/microchip-technology/ATATMEL-ICE-BASIC/4753381?s=N4IgTCBcDaIIIBVEFkCiAZAtASQMKswCE4BlPTAOQBEQBdAXyA) | 
