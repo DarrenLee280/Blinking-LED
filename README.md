@@ -26,3 +26,10 @@ Components Used
 | 1x     | 9V Battery Connector | BS6I | BS6I-ND | [Digikey Link](https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BS6I/32055?s=N4IgTCBcDaIEIGUBsBJAtAOQCIgLoF8g) |
 | 1x     | Breadboard | TW-E41-1020 | 438-1046-ND | [Digikey Link](https://www.digikey.com/en/products/detail/twin-industries/TW-E41-1020/643112?s=N4IgTCBcDaICwGYAcBaAjABjgNhQOQBEQBdAXyA) |
 
+Visuals
+------
+<object data="https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
