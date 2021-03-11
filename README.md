@@ -45,7 +45,7 @@ How To:
 6. Press __Program__
 
 Make sure your __Device Programming__ window looks like this BEFORE pressing __Program__
-![Device Programming](https://github.com/DarrenLee280/Blinking-LED/blob/main/Pictures/Device%20Programming.JPG) "Device Programming")
+![Device Programming](https://github.com/DarrenLee280/Blinking-LED/blob/main/Pictures/Device%20Programming.JPG "Device Programming")
 
 Source Code
 ------
