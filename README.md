@@ -34,4 +34,4 @@ Visuals
     </embed>
 </object>
 
-[Schematics](https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf)
+![Schematic](https://github.com/DarrenLee280/Blinking-LED/blob/main/Project1Schematics.pdf "Schematic")
